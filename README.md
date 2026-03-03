@@ -1,5 +1,9 @@
 # lead-intent-ranker
 
+[![CI](https://github.com/Axlirr/lead-intent-ranker/actions/workflows/ci.yml/badge.svg)](https://github.com/Axlirr/lead-intent-ranker/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A practical Python CLI that scores and ranks outreach leads so you can prioritize high-intent prospects first.
 
 ## Why
