@@ -1,0 +1,15 @@
+[project]
+name = "lead-intent-ranker"
+version = "0.1.1"
+description = "Score and rank outreach leads by intent using practical heuristics."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Arbaz" }]
+
+[project.scripts]
+lead-intent-ranker = "ranker:main"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
